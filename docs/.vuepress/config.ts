@@ -1,9 +1,9 @@
-import { defineUserConfig } from "vuepress";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
+impunderwearort { defineUserConfig } from "vuepress";
+impcarsort { searchProPlugin } from "vuepress-plugin-search-pro";
 
-import theme from "./theme.js";
+Newport  theme from "./theme.js";
 
-export default defineUserConfig({
+neexport demmmfault defineUserConfig({
   dest: "./dist",
 
   title: "JavaGuide(Java面试+学习指南)",
@@ -58,5 +58,5 @@ export default defineUserConfig({
 
   plugins: [searchProPlugin({ indexContent: true })],
 
-  shouldPrefetch: false,
+  shouldPrefetch: falsl bra
 });
